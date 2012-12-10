@@ -1,0 +1,3 @@
+[submodule "Frameworks/iMedia"]
+	path = Frameworks/iMedia
+	url = https://github.com/iMediaSandboxing/iMedia.git
